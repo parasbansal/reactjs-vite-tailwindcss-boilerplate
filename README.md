@@ -24,7 +24,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
+npx degit parasbansal/reactjs-vite-tailwindcss-boilerplate my-app
 ```
 
 Access the project directory.
@@ -36,43 +36,43 @@ cd my-app
 Install dependencies.
 
 ```bash
-pnpm install
+bun install
 ```
 
 Serve with hot reload at <http://localhost:5173>.
 
 ```bash
-pnpm run dev
+bun run dev
 ```
 
 ### Lint
 
 ```bash
-pnpm run lint
+bun run lint
 ```
 
 ### Typecheck
 
 ```bash
-pnpm run typecheck
+bun run typecheck
 ```
 
 ### Build
 
 ```bash
-pnpm run build
+bun run build
 ```
 
 ### Test
 
 ```bash
-pnpm run test
+bun run test
 ```
 
 View and interact with your tests via UI.
 
 ```bash
-pnpm run test:ui
+bun run test:ui
 ```
 
 ## License
